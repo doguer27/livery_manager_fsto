@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'doguer'),
+        StringStruct(u'FileDescription', u'PMDG Livery Manager for MSFS 2024'),
+        StringStruct(u'FileVersion', u'1.0.7'),
+        StringStruct(u'InternalName', u'PMDGManager'),
+        StringStruct(u'LegalCopyright', u'Copyright (c) FlightMods 2025'),
+        StringStruct(u'OriginalFilename', u'PMDG_Livery_Manager.exe'),
+        StringStruct(u'ProductName', u'PMDG Livery Manager - FlightMods Edition'),
+        StringStruct(u'ProductVersion', u'1.0.7')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
