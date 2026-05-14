@@ -101,6 +101,20 @@ def cleanup_stale_temp_files():
 cleanup_stale_temp_files()
 
 AIRCRAFT_DB = {
+    "PMDG 737-600": { 
+        "type": "PMDG", 
+        "sim_folder": "PMDG 737-600", 
+        "wasm": "pmdg-aircraft-736",
+        "has_variants": False,
+        "has_winglets": False 
+    },
+    "PMDG 737-700": { 
+        "type": "PMDG", 
+        "sim_folder": "PMDG 737-700", 
+        "wasm": "pmdg-aircraft-737",
+        "has_variants": False,
+        "has_winglets": False 
+    },
     "PMDG 737-800": { 
         "type": "PMDG", 
         "sim_folder": "PMDG 737-800", 
@@ -125,14 +139,6 @@ AIRCRAFT_DB = {
             "900ER": "b739er_ext"
         },
         "has_winglets": True 
-    },
-    # --- PMDG 737-600 ---
-    "PMDG 737-600": { 
-        "type": "PMDG", 
-        "sim_folder": "PMDG 737-600", 
-        "wasm": "pmdg-aircraft-736",
-        "has_variants": False,
-        "has_winglets": False 
     },
     "PMDG 777F": { 
         "type": "PMDG", 
