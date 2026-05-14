@@ -21,7 +21,7 @@ VSVersionInfo(
         StringStruct(u'LegalCopyright', u'Copyright (c) FlightMods 2025'),
         StringStruct(u'OriginalFilename', u'PMDG_Livery_Manager.exe'),
         StringStruct(u'ProductName', u'PMDG Livery Manager - FlightMods Edition'),
-        StringStruct(u'ProductVersion', u'1.0.7')])
+        StringStruct(u'ProductVersion', u'1.0.8')])
       ]), 
     VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
   ]
